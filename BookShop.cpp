@@ -206,6 +206,7 @@ void Book::viewBook()
 
 int main()
 {
+    cout<<"Testing"<<endl;
     Person P;
     int choice;
     cout<<"\nFor registration press 1 : "<<endl;
